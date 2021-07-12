@@ -4,7 +4,7 @@
 <p>2. In Roblox Studio right click on ServerScriptService and select 'Import from file'.</p>
 <p>3. Select the downloaded module from the 'Select a file' window.</p>
 <h2>Through Roblox</h2>
-<p>1. 'Get' the module here: https://www.roblox.com/library/7085465779/BetterGamepassService</p>
+<p>1. 'Get' the module <a href="https://www.roblox.com/library/7085465779/BetterGamepassService">here</a></p>
 <p>2. In Roblox Studio go to the toolbox and select 'Inventory'</p>
 <img src='https://user-images.githubusercontent.com/86627085/125355361-d4b41480-e35c-11eb-8a71-71f7522aa389.png'>
 <p>Click on the module to insert it.</p>
