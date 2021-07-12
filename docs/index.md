@@ -2,7 +2,7 @@
 <h2>Through GitHub</h2>
 <p>1. Download the module <a href="https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm">here</a></p>
 <p>2. In Roblox Studio right click on ServerScriptService and select 'Import from file'.</p>
-<img src='https://user-images.githubusercontent.com/86627085/125356515-36c14980-e35e-11eb-9233-f85b5faa4b4e.PNG'>
+<img src='https://user-images.githubusercontent.com/86627085/125356924-ce269c80-e35e-11eb-94ea-9646d546d30c.PNG'>
 <p>3. Select the downloaded module from the 'Select a file' window.</p>
 <h2>Through Roblox</h2>
 <p>1. 'Get' the module <a href="https://www.roblox.com/library/7085465779/BetterGamepassService">here</a></p>
