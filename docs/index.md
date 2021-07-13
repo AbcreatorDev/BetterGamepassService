@@ -1,8 +1,5 @@
 # Documentation
 
-
-<link rel="stylesheet" href="../css/main.css">
-
 <div class="alert">
   This is an alert box.
 </div>
