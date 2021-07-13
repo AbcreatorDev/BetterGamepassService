@@ -34,3 +34,7 @@ For example if our module was located in Workspace we would write this:
 ```Lua
 require(game.Workspace.MainModule)
 ```
+
+# API
+
+## Functions
