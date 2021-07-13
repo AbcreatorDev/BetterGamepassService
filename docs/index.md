@@ -35,6 +35,10 @@ For example if our module was located in Workspace we would write this:
 require(game.Workspace.MainModule)
 ```
 
-# API
+# API Reference
 
 ## Functions
+
+## Properties
+
+## Events
