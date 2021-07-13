@@ -1,5 +1,8 @@
 # Documentation
 
+
+<link rel="stylesheet" href="../../../../resources/stylesheet.min.css">
+
 <div class="alert">
   This is an alert box.
 </div>
@@ -54,5 +57,3 @@ require(game.Workspace.MainModule)
 ## Events
 
 *Nothing here yet...*
-
-<link rel="stylesheet" href="../../../../resources/stylesheet.min.css">
