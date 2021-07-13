@@ -1,3 +1,4 @@
+# Documentation
 # Installation
 ## Through GitHub
 1. Download the module [here](https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm)
