@@ -1,4 +1,8 @@
-@import "";
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 .alert {
   padding: 20px;
   background-color: #f44336; /* Red */
