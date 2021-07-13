@@ -1,7 +1,7 @@
 # Documentation
 
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/AbcreatorDev/BetterGamepassService/main/css/main.css">
+<link rel="stylesheet" href="../../css/main.css">
 
 <div class="alert">
   This is an alert box.
