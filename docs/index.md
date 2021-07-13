@@ -1,4 +1,9 @@
 # Documentation
+
+<div class="alert">
+  This is an alert box.
+</div>
+
 # Installation
 ## Through GitHub
 1. Download the module [here](https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm)
