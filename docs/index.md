@@ -55,4 +55,4 @@ require(game.Workspace.MainModule)
 
 *Nothing here yet...*
 
-<link rel="stylesheet" href="../../../resources/stylesheet.min.css">
+<link rel="stylesheet" href="../../../../resources/stylesheet.min.css">
