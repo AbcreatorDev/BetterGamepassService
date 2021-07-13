@@ -54,3 +54,5 @@ require(game.Workspace.MainModule)
 ## Events
 
 *Nothing here yet...*
+
+<link rel="stylesheet" href="../../../resources/stylesheet.min.css">
