@@ -18,11 +18,16 @@
 
 # Requiring the module:
 
-Insert the following line into the script where you would normally write game:GetService("MarketplaceService"):
-
+Where you would normally write the following
+````Lua
+game:GetService("MarketplaceService")
+````
+write this instead:
 ```Lua
 require([INSERT MODULE PATH HERE])
 ```
+
+### Example case:
 
 For example if our module was located in Workspace we would write this:
 
