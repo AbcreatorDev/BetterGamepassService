@@ -1,13 +1,11 @@
-<h1>Documentation</h1>
+# Documentation
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body class="w3-container">
+## Installation
 
-  <h2>Installation</h2>
-  <h3>Through GitHub</h3>
-<p>1. Download the module <a href="https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm">Here</a></p>
-  <p>2. In Roblox Studio right click on Workspace and select 'Import from file'</p>
+### Through GitHub
+
+1. Download the module [here](https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm)
+2. In Roblox Studio right click on Workspace and select 'Import from file'</p>
 
   
 ![InsertModule](https://user-images.githubusercontent.com/86627085/125501504-52dce871-d3f2-4da2-9053-91c181d8b282.PNG)
