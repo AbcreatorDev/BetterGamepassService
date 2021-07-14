@@ -12,7 +12,7 @@
 
 3. Select the downloaded module from the 'Select a file' window
 
-  <h3>Through Roblox</h3>
+### Through Roblox
 
 1. 'Get' the module [here](https://www.roblox.com/library/7085465779/BetterGamepassService)
 2. In Roblox Studio go to the toolbox and select 'Inventory'
