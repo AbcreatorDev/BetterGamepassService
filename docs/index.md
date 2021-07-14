@@ -4,8 +4,8 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body class="w3-container">
 
-# Installation
-## Through GitHub
+  <h2>Installation</h2>
+  <h3>Through GitHub</h3>
 1. Download the module [here](https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm)
 2. In Roblox Studio right click on Workspace and select 'Import from file'
 
@@ -13,7 +13,7 @@
 
 3. Select the downloaded module from the 'Select a file' window
 
-## Through Roblox
+  <h3>Through Roblox</h3>
 
 1. 'Get' the module [here](https://www.roblox.com/library/7085465779/BetterGamepassService)
 2. In Roblox Studio go to the toolbox and select 'Inventory'
