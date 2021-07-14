@@ -1,7 +1,11 @@
 # Documentation
 
-<div class="alert">
-  This is an alert box.
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-container">
+<div class="w3-panel w3-pale-red w3-border">
+  <h3>Danger!</h3>
+  <p>Red often indicates a dangerous or negative situation.</p>
 </div>
 
 # Installation
