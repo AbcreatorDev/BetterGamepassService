@@ -61,17 +61,17 @@ Checks if the player owns the provided gamePassId by checking through the cache 
 ````Lua
 .Name
 ````
-Defaults to 'GamePassService'
+Defaults to 'GamePassService'. **Note: Not replicated to the module script.**
 
 ````Lua
 .Parent
 ````
-Defaults to DataModel
+Defaults to DataModel. **Note: Not replicated to the module script.**
 
 ````Lua
 .Archivable
 ````
-Defaults to true.
+Defaults to true. **Note: This property is replicated to the module script.**
 
 ````Lua
 .ClassName
