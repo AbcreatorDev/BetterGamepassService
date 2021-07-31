@@ -42,14 +42,27 @@ require(game.Workspace.MainModule)
 
 # API Reference
 
-## Functions
+## Module
 
-*Nothing here yet...*
+### Functions
 
-## Properties
+````Lua
+:SetGamePassOwnership(player : object, gamePassId : int64, wasPurchased : bool)
+````
+Sets the cache of the player's ownership of gamePassId to wasPurchased. This function only sets the cache for the current server, in order to have this persist a DataStore will be required.
 
-*Nothing here yet...*
+````Lua
+:PlayerHasPass(player : object, gamePassId : int64)
+````
+Checks if the player owns the provided gamePassId by checking through the cache / making a request (if it's not already cached)
 
-## Events
+### Properties
 
-*Nothing here yet...*
+*None...*
+
+### Events
+
+````Lua
+.OnCacheUpdated(UserId : int64, gamePassId : int64)
+````
+Fires when the module's custom cache is updated. The UserId field is the user id of the player that was updated in the cache and the gamePassId is the gamepass id updated in the cache.
