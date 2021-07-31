@@ -71,12 +71,12 @@ Defaults to DataModel
 ````Lua
 .Archivable
 ````
-Defaults to true (**Does nothing, use it on the module instead. Only here for support reasons.**)
+Defaults to true.
 
 ````Lua
 .ClassName
 ````
-Defaults to 'GamePassService'
+Defaults to 'GamePassService' **Not repliacted to the module script.**
 
 ### Events
 
