@@ -58,7 +58,25 @@ Checks if the player owns the provided gamePassId by checking through the cache 
 
 ### Properties
 
-*None...*
+````Lua
+.Name
+````
+Defaults to 'GamePassService'
+
+````Lua
+.Parent
+````
+Defaults to DataModel
+
+````Lua
+.Archivable
+````
+Defaults to true (**Does nothing, use it on the module instead. Only here for support reasons.**)
+
+````Lua
+.ClassName
+````
+Defaults to 'GamePassService'
 
 ### Events
 
