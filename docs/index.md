@@ -76,7 +76,7 @@ Defaults to true.
 ````Lua
 .ClassName
 ````
-Defaults to 'GamePassService' **Not repliacted to the module script.**
+Defaults to 'GamePassService'. **Note: Not replicated to the module script.**
 
 ### Events
 
