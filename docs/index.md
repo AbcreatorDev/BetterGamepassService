@@ -61,22 +61,19 @@ Checks if the player owns the provided gamePassId by checking through the cache 
 ````Lua
 .Name
 ````
-Defaults to 'GamePassService'. **Note: Not replicated to the module script.**
+Defaults to 'GamePassService'. **Note: This property does not replicate changes to either the GamePassService instance or the ModuleScript instance when edited.**
 
 ````Lua
 .Parent
 ````
-Defaults to DataModel. **Note: Not replicated to the module script.**
-
-````Lua
-.Archivable
-````
-Defaults to true. **Note: This property is replicated to the module script.**
+Defaults to the DataModel (game). **Note: This property does not replicate changes to either the GamepassService instance or the ModuleScript instance when edited.**
 
 ````Lua
 .ClassName
 ````
-Defaults to 'GamePassService'. **Note: Not replicated to the module script.**
+Defaults to 'GamePassService'. **Note: This property does not replicate changes to either the GamepassService instance or the ModuleScript instance when edited.**
+
+*All ModuleScript properties are also permitted to be accessed via the required module; those properties are direct references to the ModuleScript properties and editing/accessing them will read/write to the ModuleScript's corresponding property.*
 
 ### Events
 
