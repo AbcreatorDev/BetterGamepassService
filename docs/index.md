@@ -78,6 +78,6 @@ Defaults to 'GamePassService'. **Note: This property does not replicate changes 
 ### Events
 
 ````Lua
-.OnCacheUpdated(UserId : int64, gamePassId : int64)
+.OnCacheUpdated(userId : int64, gamePassId : int64)
 ````
-Fires when the module's custom cache is updated. The UserId field is the user id of the player that was updated in the cache and the gamePassId is the gamepass id updated in the cache.
+Fires when the module's custom cache is updated. The userId field is the user id of the player that was updated in the cache and the gamePassId is the gamepass id updated in the cache.
