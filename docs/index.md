@@ -5,7 +5,7 @@
 ### Through GitHub
 
 1. Download the module [here](https://github.com/AbcreatorDev/BetterGamepassService/blob/main/MainModule.rbxm)
-2. In Roblox Studio right click on Workspace and select 'Import from file'</p>
+2. In Roblox Studio right click on Workspace and select 'Import from file'
 
   
 ![InsertModule](https://user-images.githubusercontent.com/86627085/125501504-52dce871-d3f2-4da2-9053-91c181d8b282.PNG)
